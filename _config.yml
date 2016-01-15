@@ -1,0 +1,12 @@
+# Site settings
+title: 数据厨师的厨房
+email: muxinxin@yeah.net
+description: "这是一个很有意思的地方，我使用Jekyll搭建的一个静态博客，很高兴能成功访问到！"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
