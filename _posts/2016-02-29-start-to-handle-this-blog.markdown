@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "写在开始的话"
 date:   2016-01-14 18:06:22
 categories: new start
 ---
