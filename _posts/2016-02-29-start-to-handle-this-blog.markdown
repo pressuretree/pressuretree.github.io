@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-01-14 18:06:22
-categories: jekyll update
+categories: new start
 ---
 
 # 最近觉得世界就是 **娇气** 
