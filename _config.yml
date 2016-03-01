@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://www.muxinxin.top"
 twitter_username: jekyllrb
 github_username:  pressuretree
+paginate: 5
 
 # Build settings
 markdown: kramdown
