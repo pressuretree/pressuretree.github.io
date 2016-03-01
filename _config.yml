@@ -1,9 +1,9 @@
 # Site settings
-title: 数据厨师的厨房
+title: 静以致远
 email: muxinxin@yeah.net
 description: "这是一个很有意思的地方，我使用Jekyll搭建的一个静态博客，很高兴能成功访问到！"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.muxinxin.top"
 twitter_username: jekyllrb
 github_username:  jekyll
 
