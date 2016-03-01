@@ -5,7 +5,7 @@ description: "See it, believe it, act on it！"
 baseurl: ""
 url: "http://www.muxinxin.top"
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  pressuretree
 
 # Build settings
 markdown: kramdown
