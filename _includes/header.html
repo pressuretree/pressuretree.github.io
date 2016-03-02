@@ -2,14 +2,14 @@
 
 	<nav class="navbar navbar-default navbar-fixed-top">
   		<div class="container">
-    		<ul class="nav navbar-nav">
+    		<ul class="nav nav-pills">
 	  			<li class="active"><a href="{{ site.baseurl }}/">{{ site.title }}</a></li>
 	  			<li><a href="#">Profile</a></li>
 	  			<li><a href="#">Messages</a></li>
 		
 	        	{% for page in site.pages %}
 	          		{% if page.title %}
-						<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+						<li class="navbar-right"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 			  		{% endif %}
 	        	{% endfor %}
 	
