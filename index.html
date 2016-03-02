@@ -2,8 +2,16 @@
 layout: default
 ---
 
-<frameset cols="25%,50%,25%">
-  <frame src="{{site.baseurl}}/frame_a.htm" />
-  <frame src="{{site.baseurl}}/frame-center.html" />
-  <frame src="{{site.baseurl}}/frame_c.htm" />
-</frameset>
+<div class="home">
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li class="row">
+        
+        <a class="col-xs-8" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
