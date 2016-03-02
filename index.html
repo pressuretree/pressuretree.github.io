@@ -11,7 +11,7 @@ layout: default
       <li class="row">
         
         <a class="post-link .col-xs-8" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		<span class="post-date .col-xs-4">{{ post.date | date: "%b %-d, %Y" }}</span>
+		<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
