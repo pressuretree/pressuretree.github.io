@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "struts2 framework"
 date:   2016-03-30 18:06:22
 categories: JAVA
 ---
