@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "struts2 framework"
+title: "More or Less"
 date: 2016-09-07
 categories: JAVA
 ---
