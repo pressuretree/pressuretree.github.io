@@ -1,13 +1,9 @@
-
 ---
 layout: post
 title: "struts2 framework"
-date: 2016-03-30
+date: 2016-09-07
 categories: JAVA
 ---
-
-
-
 
 # 题目
 ## 题目
